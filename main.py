@@ -18,10 +18,10 @@ screen.tracer(0)
 
 # Listen for key presses
 screen.listen()
-screen.onkey(paddle_right.go_up, "Up")
-screen.onkey(paddle_right.go_down, "Down")
-screen.onkey(paddle_left.go_up, "w")
-screen.onkey(paddle_left.go_down, "s")
+screen.onkeypress(paddle_right.go_up, "Up")
+screen.onkeypress(paddle_right.go_down, "Down")
+screen.onkeypress(paddle_left.go_up, "w")
+screen.onkeypress(paddle_left.go_down, "s")
 
 game_is_on = True
 
