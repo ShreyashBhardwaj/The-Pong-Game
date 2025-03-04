@@ -36,11 +36,11 @@ This project uses Python's built-in `turtle` module, so no additional installati
 
 ## Media  
 ### Game Screenshots  
-![Pong Game Screenshot 1](screenshot1.png)  
-![Pong Game Screenshot 2](screenshot2.png)  
+![Pong Game Screenshot 1](GameStart.png)  
+![Pong Game Screenshot 2](OngoingGame.png)  
 
 ### Gameplay Video  
-[![Pong Game Video](screenshot1.png)](The Pong Game.mp4)  
+[![Pong Game Video](GameStart.png)](gameplay.mp4)  
 
 ## Future Improvements
 - Add sound effects.
