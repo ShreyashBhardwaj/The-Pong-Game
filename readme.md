@@ -34,6 +34,14 @@ This is a simple Pong game built using Python and the `turtle` module.
 ## Dependencies
 This project uses Python's built-in `turtle` module, so no additional installations are required.
 
+## Media  
+### Game Screenshots  
+![Pong Game Screenshot 1](screenshot1.png)  
+![Pong Game Screenshot 2](screenshot2.png)  
+
+### Gameplay Video  
+[![Pong Game Video](screenshot1.png)](The Pong Game.mp4)  
+
 ## Future Improvements
 - Add sound effects.
 - Implement AI for a single-player mode.
